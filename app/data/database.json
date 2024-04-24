@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 105326,
+      "balance": 93026,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -76,400 +76,620 @@
       "modifiedAt": "2024-03-07T00:07:36.510Z"
     },
     {
-      "id": "z7Vc_hynR",
-      "uuid": "77ee88aa-a04e-426c-a9c0-2a6f084c4515",
+      "id": "3VKx23LMh",
+      "uuid": "ae05ad8b-d5a4-45b2-b7f4-f27e9124607a",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$.I0.HoP9USBTTBU1PqEetuNykXt94tKnDQgVk0k33ZNceRoBnwuym",
-      "balance": 12300,
-      "createdAt": "2024-04-17T17:57:41.091Z",
-      "modifiedAt": "2024-04-17T17:57:41.091Z"
+      "password": "$2a$10$Ivg/HUE6XVTKuE8mA/OXn.5W3Pj7c/gHxCwQxXjDxyihhZuASB3za",
+      "balance": 0,
+      "createdAt": "2024-04-24T12:56:01.765Z",
+      "modifiedAt": "2024-04-24T12:56:01.765Z"
     },
     {
-      "id": "A2tZgI3n-",
-      "uuid": "a95a796a-92d2-469c-a32e-2bdcb60cd82b",
+      "id": "p6QVKz9M4",
+      "uuid": "ba706a26-cb2d-4042-b469-9814329fab82",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$9.Frn1o.JIB9NnmUprJ.8eAIkWh/tNzqvMQK6NQ/VAaypbzBwtTJG",
+      "password": "$2a$10$ai6rW3.K/SYYUkORacW.LOWga.JNIMCQSvr.1mJ8sKwWKenSeD8MK",
       "balance": 0,
-      "createdAt": "2024-04-17T20:10:53.509Z",
-      "modifiedAt": "2024-04-17T20:10:53.509Z"
+      "createdAt": "2024-04-24T12:57:22.218Z",
+      "modifiedAt": "2024-04-24T12:57:22.218Z"
     },
     {
-      "id": "-nC2j4VIa",
-      "uuid": "a8d29b52-9759-4da0-afdf-8c8e6b23f0a9",
-      "firstName": "João Victor",
-      "lastName": "Calegário de Souza",
-      "username": "joao",
-      "password": "$2a$10$A1/f3beQ2aeOKVbrRitP3eWfdz90aFOPhzkH/a9eUjyJ3uEJwJJey",
-      "balance": 0,
-      "createdAt": "2024-04-17T20:24:17.261Z",
-      "modifiedAt": "2024-04-17T20:24:17.261Z"
-    },
-    {
-      "id": "uC7MXRmlQ",
-      "uuid": "6a70a78a-f294-4351-a2d9-21626ead4666",
+      "id": "5scb4Tjho",
+      "uuid": "5f837a74-41b7-4121-b1b0-49bd8067f019",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$cRi2m6fkeH32MIU54VgVB.WV2azQJ33fw82aSrk0frTKK6Z69BwZO",
+      "password": "$2a$10$rDCgxw7MgY7nWPr7vvYxL.GYbj66Qv/DUf1g3OagBxH1.akrvIfye",
       "balance": 0,
-      "createdAt": "2024-04-17T20:27:52.567Z",
-      "modifiedAt": "2024-04-17T20:27:52.567Z"
+      "createdAt": "2024-04-24T13:49:33.105Z",
+      "modifiedAt": "2024-04-24T13:49:33.105Z"
     },
     {
-      "id": "0LjaLKsJT",
-      "uuid": "f8b2da02-8396-4f0c-a1e9-98fe83a8a14b",
+      "id": "x5rPSHMYX",
+      "uuid": "11320f50-8362-409c-b19c-3488ec013709",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$Mv3lYG8QgO0DSvTZ5tF4fud9toHqq6n3HYHk9fpm5tbm0log5iQBW",
+      "password": "$2a$10$iy9XXrDUzH.9.nPrx4D24u.chDshXcdHJF2z4LtMg0slg1.vCjx1q",
       "balance": 0,
-      "createdAt": "2024-04-17T20:28:05.572Z",
-      "modifiedAt": "2024-04-17T20:28:05.572Z"
+      "createdAt": "2024-04-24T13:50:13.859Z",
+      "modifiedAt": "2024-04-24T13:50:13.859Z"
     },
     {
-      "id": "fFDsNmt1p",
-      "uuid": "e37b1ce4-5145-49b8-95ae-a14fe6d6442a",
+      "id": "ferdIeEXe",
+      "uuid": "be492b48-cf69-46d9-ba7f-ad8399996d24",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$m0mtNXPtSF5S6x6dKfwdKOiKlXdIDPsKcCeRtX6racFPPRIzwctca",
+      "password": "$2a$10$BRzxGi3XZ/3bOyhc46moguopo7KtbJ2lhmXX/JcOAgCHI60oS8FKO",
       "balance": 0,
-      "createdAt": "2024-04-17T20:28:19.316Z",
-      "modifiedAt": "2024-04-17T20:28:19.316Z"
+      "createdAt": "2024-04-24T13:57:07.974Z",
+      "modifiedAt": "2024-04-24T13:57:07.974Z"
     },
     {
-      "id": "D9Id5qEXp",
-      "uuid": "d8c9a081-6510-4006-a9cd-33ccb4583cfe",
+      "id": "lbZw0KKMQ",
+      "uuid": "f24384ca-2b35-4b24-b4b8-4c1d5b23a458",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$z7fsXMFjPWKVzFEH86HBdeWwhHqSOjucYic5V9ep7FDMABUMXeHGq",
+      "password": "$2a$10$1bGFb5XTUJfjtvRq2IRH6O9NDLCBVIJ2BG08T7iw506gG7r42T3CK",
       "balance": 0,
-      "createdAt": "2024-04-17T20:28:25.318Z",
-      "modifiedAt": "2024-04-17T20:28:25.318Z"
+      "createdAt": "2024-04-24T14:02:09.078Z",
+      "modifiedAt": "2024-04-24T14:02:09.078Z"
     },
     {
-      "id": "fzbHxouy5",
-      "uuid": "239d56e9-1017-40a8-87da-3efd21eb08bb",
+      "id": "NgIKcuLxE",
+      "uuid": "90b76ee7-aeec-4fa6-a493-61b6812cdfd8",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$ickoAqrlNz2UC8F2hpPuz.V16yVkydac1WUVycpJ/xt8bJY80TSau",
+      "password": "$2a$10$VCBv4n2GmzAgTkwywlkItOFCxGF3P66WnO2JJDC/WdqINKIxxd/hu",
       "balance": 0,
-      "createdAt": "2024-04-17T20:28:34.811Z",
-      "modifiedAt": "2024-04-17T20:28:34.811Z"
+      "createdAt": "2024-04-24T14:02:16.325Z",
+      "modifiedAt": "2024-04-24T14:02:16.325Z"
     },
     {
-      "id": "fMYyt-9mi",
-      "uuid": "8a73c841-5191-419b-b853-e0e5eee43b46",
-      "firstName": "teste",
-      "lastName": "1",
-      "username": "teste",
-      "password": "$2a$10$goiqe8RgsbqsE50vzHfgJus7rf8SUFdCHTm6snEfHT.zpSbfFjURi",
-      "balance": 0,
-      "createdAt": "2024-04-17T20:29:40.312Z",
-      "modifiedAt": "2024-04-17T20:29:40.312Z"
-    },
-    {
-      "id": "GkNpiUbKl",
-      "uuid": "f9d83263-ef22-4515-b102-f14254231876",
+      "id": "io5OhyCuE",
+      "uuid": "4a91a63d-0cbf-4dc4-8747-09d963157973",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$4l9sEq47lIolpYfOlkqwnubhykuVNqSPrEm93wy6Qgbz6k2Ag9gNe",
+      "password": "$2a$10$UZ0oM0IyBKkuKG1CfPa4Puw67ZECniYd4d9N/GR6V4ZHBen4TY/by",
       "balance": 0,
-      "createdAt": "2024-04-17T20:30:51.122Z",
-      "modifiedAt": "2024-04-17T20:30:51.122Z"
+      "createdAt": "2024-04-24T14:02:30.741Z",
+      "modifiedAt": "2024-04-24T14:02:30.741Z"
     },
     {
-      "id": "J7u3-9cls",
-      "uuid": "d2bf83e3-ccd2-47fb-9be2-9bb6ca52406d",
+      "id": "riQD8iOB7",
+      "uuid": "040ea7ee-c218-40b6-8192-985ff32439b2",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$hxQnojiibqMPVFeCjhGNj.D3HfFcwZVfXwY.3SmtUFz.R/MgMfR/W",
+      "password": "$2a$10$IXUVyHwCgGzuZFwKHzm8eOzw4m5QE2MypYUm4JKqS1i/7r.3TA81i",
       "balance": 0,
-      "createdAt": "2024-04-17T20:31:53.156Z",
-      "modifiedAt": "2024-04-17T20:31:53.156Z"
+      "createdAt": "2024-04-24T14:02:44.521Z",
+      "modifiedAt": "2024-04-24T14:02:44.521Z"
     },
     {
-      "id": "ve4MvI7hT",
-      "uuid": "d38bb045-7413-471b-8c38-a35803751689",
+      "id": "xcHkdcLA9",
+      "uuid": "f1217348-dbfb-46df-8168-89f973f7310f",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$wUanOYxyUqzPRQf4Eg6VTuPyvnCl8S3GSAb7OgCh2Dpjv/FtO6k82",
+      "password": "$2a$10$A/fEt7TuJAKuruT5AyRIhuxNLtBjqZjPfAauC9oXvykkYVMlNB1Qu",
       "balance": 0,
-      "createdAt": "2024-04-17T20:31:56.838Z",
-      "modifiedAt": "2024-04-17T20:31:56.838Z"
+      "createdAt": "2024-04-24T14:03:46.719Z",
+      "modifiedAt": "2024-04-24T14:03:46.719Z"
     },
     {
-      "id": "aHJvH18ac",
-      "uuid": "0fc7ebce-7e06-4b65-b7a4-822c7c518fe9",
+      "id": "CM5R68o9d",
+      "uuid": "f96e7cbb-6e0a-4374-8ddc-8294166eb094",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$4KHs57Of78gAPzoX5YBveONPBSUKRwveWxDkyBix32gvyrWNSbHbK",
+      "password": "$2a$10$J6oTmQmLmDhyLr7i3ya19eCfwB1xBkiBG9fQde/RzwKH54bY/dbom",
       "balance": 0,
-      "createdAt": "2024-04-17T20:32:34.969Z",
-      "modifiedAt": "2024-04-17T20:32:34.969Z"
+      "createdAt": "2024-04-24T14:04:14.495Z",
+      "modifiedAt": "2024-04-24T14:04:14.495Z"
     },
     {
-      "id": "A1a-6BXfz",
-      "uuid": "8fd77439-d547-4b53-9494-984afcad522c",
+      "id": "ML4d0xfSY",
+      "uuid": "72683121-eca7-4f90-bfa8-d694931c223d",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$znnJn1TQl7WzlotHJJWdXeybPvwvoX3RMEhfzIiFQvzO2unlunt8K",
+      "password": "$2a$10$bJpnOhzHtFXS7LbiePynpeVEwWZxRGNNwZX2T3KQuC6Mw7se8vL8m",
       "balance": 0,
-      "createdAt": "2024-04-17T20:32:54.197Z",
-      "modifiedAt": "2024-04-17T20:32:54.197Z"
+      "createdAt": "2024-04-24T14:05:12.730Z",
+      "modifiedAt": "2024-04-24T14:05:12.730Z"
     },
     {
-      "id": "CWFaTx9EX",
-      "uuid": "d1850976-d002-4dfc-8f83-6944e784869d",
+      "id": "HTJSVhOvN",
+      "uuid": "da2df943-8779-4756-be09-ec327e4a026d",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$oUVhnhPaljKHjVNzRyTsTOQwI8A.CXMJKo9jQHDIQJUyav4yplsOO",
+      "password": "$2a$10$Tk5mWfyqhDBxptQY0BCetuY1XfM60l7woZKC0krjIN/nvXYW95HB.",
       "balance": 0,
-      "createdAt": "2024-04-17T20:34:42.184Z",
-      "modifiedAt": "2024-04-17T20:34:42.184Z"
+      "createdAt": "2024-04-24T14:05:41.349Z",
+      "modifiedAt": "2024-04-24T14:05:41.349Z"
     },
     {
-      "id": "pBfRhRTZW",
-      "uuid": "be144999-cbe6-4a5e-98bb-ae18b149838c",
+      "id": "gRoF0ON8r",
+      "uuid": "7f42efa3-f783-4ee8-b0ba-698d92909c43",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$KxwqWvacVk/e/bwu7xHQS.68MtmxN7cLk9bnupYxn7rNmECbp/1yu",
+      "password": "$2a$10$.3hWcVRJU/Q/9fLwnuibSeqAJv7jd/yhoOz.N2/iD4vHdbSpgs1Rm",
       "balance": 0,
-      "createdAt": "2024-04-17T20:35:07.828Z",
-      "modifiedAt": "2024-04-17T20:35:07.828Z"
+      "createdAt": "2024-04-24T14:06:06.723Z",
+      "modifiedAt": "2024-04-24T14:06:06.723Z"
     },
     {
-      "id": "BSXgeMUwO",
-      "uuid": "69d860d9-863c-4f21-9d6b-2885adf09e48",
+      "id": "CnpI9C1JQ",
+      "uuid": "72bb6471-1ec1-4bba-bb41-840e91b58698",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$c6LPZ35TMObCyoaXAn2krOZ7ZevkcwcbWfwa.pfvRAMN/o1ZDzdi2",
+      "password": "$2a$10$sOqN2PD2fOHs.HRUVosNGea.igKFmHdodXu3fVxF6mYyHSEZVcHKO",
       "balance": 0,
-      "createdAt": "2024-04-17T20:35:11.323Z",
-      "modifiedAt": "2024-04-17T20:35:11.323Z"
+      "createdAt": "2024-04-24T14:06:38.375Z",
+      "modifiedAt": "2024-04-24T14:06:38.375Z"
     },
     {
-      "id": "gjXUiqBQL",
-      "uuid": "4500daf6-a0f2-4bc8-8e4c-46531840b3a8",
+      "id": "AOg12VI9m",
+      "uuid": "dc897384-160c-43bb-a0a0-82741ef48091",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$bV/oZUcnkYILJORy1psMBOFlI05599JWBMId3ohTvYwC9dwjUKk3m",
+      "password": "$2a$10$3nNAEuzsP2jpYT4JBsnnQ.0OVFkUYZgLn/sExnL1hyctM1lVsVMEW",
       "balance": 0,
-      "createdAt": "2024-04-17T20:35:40.273Z",
-      "modifiedAt": "2024-04-17T20:35:40.273Z"
+      "createdAt": "2024-04-24T14:06:45.819Z",
+      "modifiedAt": "2024-04-24T14:06:45.819Z"
     },
     {
-      "id": "kVMdCsOqf",
-      "uuid": "1ddbfb29-9144-4a0e-9a3c-be392da76c16",
+      "id": "pOeC5SdQj",
+      "uuid": "876e4c2f-eb86-4ec3-9c00-feea2f9eb300",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$jvXt4eK.sUv9YI.iGAnXwOQseCQ0vtWxjtxML2rzkUOS6tfS2hRFm",
+      "password": "$2a$10$EteFHUBQ5rPm9Cvv8F/qlOsm9znMKpe0J6x.RB0sTMdqyP9qAWRua",
       "balance": 0,
-      "createdAt": "2024-04-17T20:35:45.113Z",
-      "modifiedAt": "2024-04-17T20:35:45.113Z"
+      "createdAt": "2024-04-24T14:06:51.361Z",
+      "modifiedAt": "2024-04-24T14:06:51.361Z"
     },
     {
-      "id": "L7iLXDG0l",
-      "uuid": "8fa26519-f461-470e-b9a8-204ed5823f37",
+      "id": "Dk4eGuWpO",
+      "uuid": "94adf1cd-9fbe-4f08-8bcd-56bdb24aceb3",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$eqHypH/5NsRMJDOzMPSG4ObzaeYER8bczm0JHcWvxD6G7Sdro5Jt6",
+      "password": "$2a$10$ux6zyCEOi5enEskrdq8nKOD0gDrxF7k69gH4.f1g05FbVSR.X2IjO",
       "balance": 0,
-      "createdAt": "2024-04-17T20:36:06.612Z",
-      "modifiedAt": "2024-04-17T20:36:06.612Z"
+      "createdAt": "2024-04-24T14:07:09.431Z",
+      "modifiedAt": "2024-04-24T14:07:09.431Z"
     },
     {
-      "id": "oB67UKcq3",
-      "uuid": "b44df9f4-8255-4d26-8bea-035606799bc4",
+      "id": "N5gblxquq",
+      "uuid": "57efb652-e44a-45bc-9d9b-22cd33288ac9",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$bLnBlIFctImkPF2iJBlBVublcu1UpnLqz0VAgrq4pQqHsrVdVAjoC",
+      "password": "$2a$10$yXEolRzHvYVz9mBQ7KfI4urLuRcpz7iLl8ryb75kN.tuyu/I/JM/K",
       "balance": 0,
-      "createdAt": "2024-04-17T20:36:15.848Z",
-      "modifiedAt": "2024-04-17T20:36:15.848Z"
+      "createdAt": "2024-04-24T14:07:16.726Z",
+      "modifiedAt": "2024-04-24T14:07:16.726Z"
     },
     {
-      "id": "ydTdaoue4",
-      "uuid": "8a24971f-f2e3-49a6-8f8e-eefe4fe16f68",
+      "id": "EB7ZiHek_",
+      "uuid": "18536cc5-ff6c-440d-a654-f413f75bc32b",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$71MnyteEDqDW8nI3KBCEdOxUv59k2TrZGJvwIzmz3lHxi/RY/LJrK",
+      "password": "$2a$10$B.VSC4Exr/kaLhEChJnDtemsMdEX9BAdr6ipILAWxmTUbqFIskrie",
       "balance": 0,
-      "createdAt": "2024-04-17T20:36:21.493Z",
-      "modifiedAt": "2024-04-17T20:36:21.493Z"
+      "createdAt": "2024-04-24T14:07:25.236Z",
+      "modifiedAt": "2024-04-24T14:07:25.236Z"
     },
     {
-      "id": "qJ5KUeYUI",
-      "uuid": "a228cf27-fc9c-4d92-ad31-4f265c1bf538",
+      "id": "ZVt9KWsCE",
+      "uuid": "abbf923c-2738-4717-984a-b91ceeb7b155",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$N5FGhkRFjTMjJTIDIXLqkuJ9sjHFCcFV.YMtmGHKPW.n03I7gs5tC",
+      "password": "$2a$10$ztaJi7rxqBWbzDhrHFo2VOT7XHvKFSsCSi4g.6ZlHVa0kBE0cSJgu",
       "balance": 0,
-      "createdAt": "2024-04-17T20:36:24.569Z",
-      "modifiedAt": "2024-04-17T20:36:24.569Z"
+      "createdAt": "2024-04-24T14:07:29.628Z",
+      "modifiedAt": "2024-04-24T14:07:29.628Z"
     },
     {
-      "id": "8UYMdR5vu",
-      "uuid": "52e2ba48-d7ab-49bc-af82-2c61f74983a9",
+      "id": "6jDnVcIxh",
+      "uuid": "eb20d7a6-5442-4849-84aa-f58206b6459d",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$OA6kYLhw/UP6cYoF44ZRjO.7cz41zpZ1UoXo2QH6PQ1iPyq1uB8Sm",
+      "password": "$2a$10$WdJAksUmTxZpqbFxnued4ehux1cucMoW/svjyBD68akJ9kL2orztO",
       "balance": 0,
-      "createdAt": "2024-04-17T20:36:40.717Z",
-      "modifiedAt": "2024-04-17T20:36:40.717Z"
+      "createdAt": "2024-04-24T14:07:58.116Z",
+      "modifiedAt": "2024-04-24T14:07:58.116Z"
     },
     {
-      "id": "D6nqhOTbT",
-      "uuid": "96825fe4-afd6-4a57-9ea8-94667168620a",
+      "id": "76Z0W5IKN",
+      "uuid": "00114afa-1dd5-4798-a7ba-ca9d842c3d8b",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$t662sOOOpYB87Rz16uXF4.3qx5lqluiSUawmbSz58lyfACYRFoPZe",
+      "password": "$2a$10$FhqnrBhYvU1Ovqetva6D2eCGYk/ahN1xW.vCLcrjBGQfaHm3mSnlS",
       "balance": 0,
-      "createdAt": "2024-04-17T20:37:46.769Z",
-      "modifiedAt": "2024-04-17T20:37:46.769Z"
+      "createdAt": "2024-04-24T14:09:32.863Z",
+      "modifiedAt": "2024-04-24T14:09:32.863Z"
     },
     {
-      "id": "sPpm4LTc0",
-      "uuid": "740a687e-49ab-4f8c-af45-dc5a922584d4",
+      "id": "6cMUcYaQp",
+      "uuid": "75ec3891-408d-4a31-a535-15b8228104c7",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$fX/IK7Kh87TsvB8Ykp6jCuXyvlnbaKod3rZZKOnoqL.cd1mQ61hfO",
+      "password": "$2a$10$U0i8s1HZWvT6j6yxT2xCsu3FhfE.64.76WRs.JijYwGwC7k9/GnEC",
       "balance": 0,
-      "createdAt": "2024-04-17T20:38:15.221Z",
-      "modifiedAt": "2024-04-17T20:38:15.221Z"
+      "createdAt": "2024-04-24T14:19:38.759Z",
+      "modifiedAt": "2024-04-24T14:19:38.759Z"
     },
     {
-      "id": "Lu9qHeJ9Y",
-      "uuid": "4d8be3b0-50cc-4406-9d33-f0b196c8414b",
+      "id": "R0FPjEZeG",
+      "uuid": "900c7a3e-742b-4333-ae19-985ee44cf8a5",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$PY35JtGRv1rKtpWX2EwJAuo9.NAy772durgrZDdq5VPwpfpVp37sK",
+      "password": "$2a$10$hPRrcRsprWLAGz0xEu0m/e6/NKR59bNSRuguBaK182ucmWZFRJXKG",
       "balance": 0,
-      "createdAt": "2024-04-17T20:38:23.186Z",
-      "modifiedAt": "2024-04-17T20:38:23.186Z"
+      "createdAt": "2024-04-24T14:23:35.803Z",
+      "modifiedAt": "2024-04-24T14:23:35.803Z"
     },
     {
-      "id": "Qeol_s9t-",
-      "uuid": "9a77720b-9038-4e98-9134-35e1a620434c",
+      "id": "8SXWFBdth",
+      "uuid": "aaa56861-2366-4fe2-984e-8aa65f8d1c70",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$2SFbSgLd1n5ciSGExX1dlOhzoUGfwvjWF6uV8dKSO7mHFN0SVi2aS",
+      "password": "$2a$10$rJoAOUyF63viMaDhjLEsceLpLnxNiSr0zMJfiawSFxwbyD2vCy846",
       "balance": 0,
-      "createdAt": "2024-04-17T20:38:50.412Z",
-      "modifiedAt": "2024-04-17T20:38:50.412Z"
+      "createdAt": "2024-04-24T14:23:52.390Z",
+      "modifiedAt": "2024-04-24T14:23:52.390Z"
     },
     {
-      "id": "ZLmF4GP_-",
-      "uuid": "6933a92a-bd8e-46de-957e-2e124314fbe0",
+      "id": "45Y5FNDiU",
+      "uuid": "7de6e528-919b-4822-94ab-68ef13e1f7c2",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$xbsWyyDvD7KZ0HxJ9/XimuN/GmLQfwcO5ofuYMLJQwPecKyNTCXUm",
+      "password": "$2a$10$hL8J.0/FSLpYklmYK523COi1oKaafNBbxswkHrrMABBqTndKxFdQO",
       "balance": 0,
-      "createdAt": "2024-04-17T20:39:10.123Z",
-      "modifiedAt": "2024-04-17T20:39:10.123Z"
+      "createdAt": "2024-04-24T14:26:09.464Z",
+      "modifiedAt": "2024-04-24T14:26:09.464Z"
     },
     {
-      "id": "WM84rwwQf",
-      "uuid": "fdcf36e0-6da4-47d7-ab7b-2ea9a1eedaf6",
+      "id": "z1rQYRT-b",
+      "uuid": "aa1246dd-9ea6-45f3-a16b-0ee696629bd7",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$gLeT2FJYnHMJkOqOSemNHugNTSeBO.S9VXLZ.YQ8KpD.oHI7DK1bS",
+      "password": "$2a$10$XWk1QmZ8H0nNaTunH5Zw.uw/FRQlLOULJbW7ZkU0srCd5MPZXiYRi",
       "balance": 0,
-      "createdAt": "2024-04-17T20:44:36.376Z",
-      "modifiedAt": "2024-04-17T20:44:36.376Z"
+      "createdAt": "2024-04-24T14:26:14.855Z",
+      "modifiedAt": "2024-04-24T14:26:14.855Z"
     },
     {
-      "id": "bRwKAE_d_",
-      "uuid": "523a22f1-e9ee-4eb4-ba85-4f249ea0f6cc",
+      "id": "PRaa2Vu7_",
+      "uuid": "2488f231-c25f-4dd5-a06e-ad6e9412eb1c",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$qZLhzBMyK.LVdIP8TNqg7OaL/qGCBv8uC.D/S0zspj70AKXJ1N976",
+      "password": "$2a$10$fvO1E8/8hzIl37mzf2XgauYIcapOchXt/mhjy7yhAH27eWdcmXAfi",
       "balance": 0,
-      "createdAt": "2024-04-17T20:44:59.291Z",
-      "modifiedAt": "2024-04-17T20:44:59.291Z"
+      "createdAt": "2024-04-24T14:26:39.927Z",
+      "modifiedAt": "2024-04-24T14:26:39.927Z"
     },
     {
-      "id": "KZKLETRdK",
-      "uuid": "c3307311-ee19-48b1-bf06-6bbb05ddc2c0",
+      "id": "MXE4b4yZ1",
+      "uuid": "f8c1b1de-2cf9-4580-adfc-8aa646e07b61",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$7vUeIbdnkU3izE/W.mqCTupAEaZXF3XaZjQYo8Db.z0BZ83y.wCwS",
+      "password": "$2a$10$XcxjTURV6LRHBBGRv9m4f.fvr0ZW13vAbmGkILkURX7Bsz9BTw6Dq",
       "balance": 0,
-      "createdAt": "2024-04-17T20:45:03.741Z",
-      "modifiedAt": "2024-04-17T20:45:03.741Z"
+      "createdAt": "2024-04-24T14:26:55.387Z",
+      "modifiedAt": "2024-04-24T14:26:55.387Z"
     },
     {
-      "id": "90UN5Sw9j",
-      "uuid": "c7edcef7-f1aa-455d-8f36-a8b42aee2fc2",
+      "id": "R4mj98BHZ",
+      "uuid": "60c8e663-3a52-4b18-baec-7fcc6f245cab",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$nmFSq1jiQgp55CYDquQkNe9P6zS2VDmF6bc8ocz.oslRYbtnGPyCu",
+      "password": "$2a$10$Rm5zp2kHrMuEj16o1r0DLeT2aa4IFAtbHkcNvle9QNYkYDSMgX0I2",
       "balance": 0,
-      "createdAt": "2024-04-17T20:45:26.216Z",
-      "modifiedAt": "2024-04-17T20:45:26.216Z"
+      "createdAt": "2024-04-24T14:26:59.701Z",
+      "modifiedAt": "2024-04-24T14:26:59.701Z"
     },
     {
-      "id": "M7M2IKcq5",
-      "uuid": "5d2abdac-857f-4d2c-a6a8-8fa87ec54c22",
+      "id": "u8I78pP0Z",
+      "uuid": "303f156b-40dc-4cc5-a1fc-d1d3c184dabd",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$/6c3i0I91BdAfPb9AiA3j.wY8oScv8UKueMzoOf5iwwiTFbxDIDB6",
+      "password": "$2a$10$VNxK4sHpboR8I2cecjd2L.NmBYTPGU1aksPoH3WvCKXQiH79KNlJi",
       "balance": 0,
-      "createdAt": "2024-04-17T20:45:54.089Z",
-      "modifiedAt": "2024-04-17T20:45:54.089Z"
+      "createdAt": "2024-04-24T14:27:03.937Z",
+      "modifiedAt": "2024-04-24T14:27:03.937Z"
     },
     {
-      "id": "6MG75vpV-",
-      "uuid": "0149450d-4cc9-499f-8843-979d9bc76078",
+      "id": "vDH05ldl0",
+      "uuid": "ebe1adf0-fe73-41cd-a1bd-d62887aa8eac",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$K0AwpGlGLbHXmhw12TfnleSTWAPk7BYbzChKU9qNdg0tKuJXyqk2K",
+      "password": "$2a$10$3IGCC/XsDjg7smwGE6e7q.QJrXCCI5Cl.ZzMu6FxJLkxjNgWxTsLS",
       "balance": 0,
-      "createdAt": "2024-04-17T20:46:14.372Z",
-      "modifiedAt": "2024-04-17T20:46:14.372Z"
+      "createdAt": "2024-04-24T14:27:25.558Z",
+      "modifiedAt": "2024-04-24T14:27:25.558Z"
     },
     {
-      "id": "t4zqFkeTn",
-      "uuid": "569af90f-046a-4d77-b2ce-b570b9dd427d",
+      "id": "8omFK7bxt",
+      "uuid": "deb34fc2-e503-402c-af85-b15ec0f7aae2",
       "firstName": "João Victor",
       "lastName": "Calegário",
       "username": "Joao",
-      "password": "$2a$10$.rvq9TamSemQCGV3XK7.GuTTJp.X8hvTNGkF.zd0gv49xL8ySFdd2",
+      "password": "$2a$10$//ISKa.kaCksDOPeq130Ruy27PhA0TxWrOcdyqAZPsbbeeyp8qAKa",
       "balance": 0,
-      "createdAt": "2024-04-17T20:46:41.871Z",
-      "modifiedAt": "2024-04-17T20:46:41.871Z"
+      "createdAt": "2024-04-24T14:29:00.575Z",
+      "modifiedAt": "2024-04-24T14:29:00.575Z"
+    },
+    {
+      "id": "mbYJquD_T",
+      "uuid": "1410b64f-4498-4490-a798-8d051073611d",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$6EzAQ19wDUgKBcvZ1ElU/uZ1RjOLSxiAJJ3IGySNk4LjgXoTEisyS",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:29:20.539Z",
+      "modifiedAt": "2024-04-24T14:29:20.539Z"
+    },
+    {
+      "id": "NcQrwCI7r",
+      "uuid": "b5c56d0e-0b09-496c-ae96-5b9ca6a55b35",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$v.u4MCUou/TF.ewjdRXzauTBdKtg4gYHugqvzcKyz/hiyO3hTcSRq",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:29:33.603Z",
+      "modifiedAt": "2024-04-24T14:29:33.603Z"
+    },
+    {
+      "id": "QtlPTayzt",
+      "uuid": "8a178a3c-fc04-4352-9de2-0ab1cdc5c83b",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$J8ltgHLj33mjvMS.2Zr4.ehmmps8AYJKiHijsOnqkIHAUPNNWXuBK",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:31:23.334Z",
+      "modifiedAt": "2024-04-24T14:31:23.334Z"
+    },
+    {
+      "id": "Yflh7q_Ce",
+      "uuid": "de2a895b-6756-4d2e-81be-2f1f03860fb1",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$cnbrn4gNZ62pOxAaO49TquBnk8cjsDvxflDLIo0vdDZsjU/hPCHdW",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:32:20.546Z",
+      "modifiedAt": "2024-04-24T14:32:20.546Z"
+    },
+    {
+      "id": "QlD6hyGMX",
+      "uuid": "e0cf9673-675a-4878-af17-5d7e4af43d87",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$GcX0GpDvakAtPqVhE3f9ZuwI8xoBMU5bQKsZXROtJDfe8fMnFR9W2",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:33:15.141Z",
+      "modifiedAt": "2024-04-24T14:33:15.141Z"
+    },
+    {
+      "id": "y5C_yMTyy",
+      "uuid": "6ecf0eed-ba0d-4a0b-a78f-48783481190e",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$pymR6dgwHzSziLAOUTRvPuVjhnIpIzCFbn08G53KzX8KsiN0u29qi",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:33:21.705Z",
+      "modifiedAt": "2024-04-24T14:33:21.705Z"
+    },
+    {
+      "id": "tC-1j9BkS",
+      "uuid": "82947c28-5902-4add-a5ec-3bcc129c24b7",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$Q.tVxKR1RhKwE7vZR3hy4.CDyyDNskuDjdZt3e2NSCGdLkraeWlTW",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:33:38.779Z",
+      "modifiedAt": "2024-04-24T14:33:38.779Z"
+    },
+    {
+      "id": "qkA8cqoER",
+      "uuid": "ad04deed-756c-4242-b557-026666c5a744",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$iHDMpyBE27kKf.dx.Svceu.PvgsJbGCbgHuI5MkraEjccjT.Kmdbm",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:33:50.871Z",
+      "modifiedAt": "2024-04-24T14:33:50.871Z"
+    },
+    {
+      "id": "85jh6nHgj",
+      "uuid": "80e0cb65-e393-4575-84e0-7dc07c469db5",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$/g6v0OExU/FbFHsWrYCC8OA2.4HIOnUhNYz5VEVZz/khYLH7I8XM2",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:34:22.967Z",
+      "modifiedAt": "2024-04-24T14:34:22.967Z"
+    },
+    {
+      "id": "N2CXSIWPi",
+      "uuid": "8caaaef5-e397-495e-83a1-198e82e58b23",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$6cmscw6xWjqUVDGjkmNkiekA.2Px2hsd0C4O.TY2k3f7QIcITgU1e",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:34:48.179Z",
+      "modifiedAt": "2024-04-24T14:34:48.179Z"
+    },
+    {
+      "id": "0Og-QyiIV",
+      "uuid": "3c3436e5-84ab-4cae-88fe-3518e701d128",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$WQLF1KxytjQBsRdE6d0hv.qLMptN9UxAXhy2TWNXgWLKbbAt.tyi.",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:35:06.122Z",
+      "modifiedAt": "2024-04-24T14:35:06.122Z"
+    },
+    {
+      "id": "Ox8PqZX1y",
+      "uuid": "25a00bbf-315e-4502-8b2d-8832a4a2c7fa",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$vK6AkBjfoRt2heKA9A1wjOZk8FeaTah7GwE1UsD0VRqLh/nPVHORe",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:35:11.735Z",
+      "modifiedAt": "2024-04-24T14:35:11.735Z"
+    },
+    {
+      "id": "DGx4Bcjty",
+      "uuid": "694d6396-e0b9-4558-967a-45c471c577f7",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$cp2TBCnaGexi9aWAKT.uSORjTizq3OZabRRhJcRbp4mPZCwBf/xdG",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:36:17.211Z",
+      "modifiedAt": "2024-04-24T14:36:17.211Z"
+    },
+    {
+      "id": "aHDW6I915",
+      "uuid": "ad2facd4-1621-4996-8e89-9288b1fd9afb",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$xQe/hlrU04TABfIgv1C4LeS5oOGdItm/adaPtp5lBWdsXT07PzVeK",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:36:21.679Z",
+      "modifiedAt": "2024-04-24T14:36:21.679Z"
+    },
+    {
+      "id": "Ac8BT9Sst",
+      "uuid": "ddb071b1-c18e-4848-a7ad-bb89beb5422a",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$9HHMVDR4cn8KG804uPGs.OyBA5jSGd9Z.hOj7hOkofe4Nln.dP9fO",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:49:59.021Z",
+      "modifiedAt": "2024-04-24T14:49:59.021Z"
+    },
+    {
+      "id": "Hxyp-7LP2",
+      "uuid": "dd780035-eaed-47f9-b6f0-8eb4be63721d",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$H41uKyOYjimfQ1puIROXf.adlvvCDv.Go6Fmshz9PG3d/.9j2sDYO",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:53:00.359Z",
+      "modifiedAt": "2024-04-24T14:53:00.359Z"
+    },
+    {
+      "id": "jYNTDF4DW",
+      "uuid": "e0fd213a-8190-46cc-9f21-213b8f6bd332",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$xz4lPObMve6YkX8FXxrXpeXBjY980zJcymFO26PTT/S6UjNCqSC5u",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:53:24.691Z",
+      "modifiedAt": "2024-04-24T14:53:24.691Z"
+    },
+    {
+      "id": "v-JzFRUnf",
+      "uuid": "bb1edb86-89a7-41c6-b525-636e529f938e",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$M2Q5Hy96QjUokTfS/mKnne1begu6egmtJRUinhZCmFrYxgFyWRUh2",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:53:39.234Z",
+      "modifiedAt": "2024-04-24T14:53:39.234Z"
+    },
+    {
+      "id": "YjzYNnH_I",
+      "uuid": "633e4f69-d75d-4ebd-a8ef-19a85aa29dd1",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$xiiou.hh5NnsPE9fgFoBYeY9NzZD.FLiN699CCx1lYZOJFAn59Xb2",
+      "balance": 0,
+      "createdAt": "2024-04-24T14:58:12.940Z",
+      "modifiedAt": "2024-04-24T14:58:12.940Z"
+    },
+    {
+      "id": "7BMxZ6DIk",
+      "uuid": "3c94a2b0-41ac-49bf-84fb-27cd384f040f",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$KAvsqdJbRd0by8cxZ0VyDunUsFiL94BGpB9RmdCaYDKNIH1WvEPVC",
+      "balance": 0,
+      "createdAt": "2024-04-24T15:00:18.217Z",
+      "modifiedAt": "2024-04-24T15:00:18.217Z"
+    },
+    {
+      "id": "sud4YXM7p",
+      "uuid": "d30df0fa-10f3-4e64-8864-d319459c4195",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$Xm.1/n7Ujp8Bmk.rDi.EnuHbwZ0vTL7y0mcfHx97f6rXvbfLwk3J6",
+      "balance": 0,
+      "createdAt": "2024-04-24T15:00:23.899Z",
+      "modifiedAt": "2024-04-24T15:00:23.899Z"
+    },
+    {
+      "id": "CN2FIyJu4",
+      "uuid": "de421051-b161-4127-9e61-ee4085b176d4",
+      "firstName": "João Victor",
+      "lastName": "Calegário",
+      "username": "Joao",
+      "password": "$2a$10$Bf4L8chBZNetFHyB/ul7Su/FVu3owP3YD6Dk7hz6FblnwbKQqsTm.",
+      "balance": 0,
+      "createdAt": "2024-04-24T15:00:50.474Z",
+      "modifiedAt": "2024-04-24T15:00:50.474Z"
     }
   ],
   "contacts": [
@@ -649,39 +869,6 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
-    },
-    {
-      "id": "ChPd4L6jk",
-      "uuid": "7db9004b-9380-44d3-a6b2-16cd417a1beb",
-      "userId": "-nC2j4VIa",
-      "bankName": "12345",
-      "accountNumber": "123123123",
-      "routingNumber": "123123123",
-      "isDeleted": false,
-      "createdAt": "2024-04-17T20:24:33.123Z",
-      "modifiedAt": "2024-04-17T20:24:33.123Z"
-    },
-    {
-      "id": "AITGS2rNO",
-      "uuid": "39bdb084-f9cd-48fb-8c05-6a9bc6d7930b",
-      "userId": "-nC2j4VIa",
-      "bankName": "teste 1",
-      "accountNumber": "123123123",
-      "routingNumber": "123123123",
-      "isDeleted": false,
-      "createdAt": "2024-04-17T20:29:09.315Z",
-      "modifiedAt": "2024-04-17T20:29:09.315Z"
-    },
-    {
-      "id": "glqWolvfG",
-      "uuid": "22e2ea6f-103b-4ea3-a86d-667b69eaca62",
-      "userId": "fMYyt-9mi",
-      "bankName": "12345",
-      "accountNumber": "123123123",
-      "routingNumber": "123123123",
-      "isDeleted": false,
-      "createdAt": "2024-04-17T20:29:54.140Z",
-      "modifiedAt": "2024-04-17T20:29:54.140Z"
     }
   ],
   "transactions": [
@@ -10284,40 +10471,6 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
-    },
-    {
-      "id": "exLwzUmhr",
-      "uuid": "0ae861fd-c624-4cf4-8113-be3e09d0b118",
-      "amount": 12300,
-      "description": "123",
-      "receiverId": "GjWovtg2hr",
-      "senderId": "-nC2j4VIa",
-      "status": "complete",
-      "createdAt": "2024-04-17T20:24:53.567Z",
-      "modifiedAt": "2024-04-17T20:24:53.567Z"
-    },
-    {
-      "id": "Rk_0xLDLR",
-      "uuid": "28acd660-59b3-4424-b371-719d16a23abf",
-      "amount": 12300,
-      "description": "123",
-      "receiverId": "A2tZgI3n-",
-      "senderId": "-nC2j4VIa",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2024-04-17T20:25:30.528Z",
-      "modifiedAt": "2024-04-17T20:25:30.528Z"
-    },
-    {
-      "id": "iNpG3-wlO",
-      "uuid": "ff2ce4a9-eaff-4973-b59a-d4e389a23eb4",
-      "amount": 12300,
-      "description": "123",
-      "receiverId": "z7Vc_hynR",
-      "senderId": "-nC2j4VIa",
-      "status": "complete",
-      "createdAt": "2024-04-17T20:26:12.323Z",
-      "modifiedAt": "2024-04-17T20:26:12.323Z"
     }
   ],
   "likes": [
@@ -10400,14 +10553,6 @@
       "transactionId": "Duc8WQEFqBCm",
       "createdAt": "2023-04-15T16:27:28.535Z",
       "modifiedAt": "2024-03-07T13:31:05.096Z"
-    },
-    {
-      "id": "gT978NZsH",
-      "uuid": "ca25b252-a78f-4a2c-9b15-71ec2fafb06b",
-      "userId": "-nC2j4VIa",
-      "transactionId": "J5Fd3dlBEBu",
-      "createdAt": "2024-04-17T20:25:01.063Z",
-      "modifiedAt": "2024-04-17T20:25:01.063Z"
     }
   ],
   "comments": [
@@ -10500,15 +10645,6 @@
       "transactionId": "b8v79rSvb9A",
       "createdAt": "2023-06-13T02:30:30.394Z",
       "modifiedAt": "2024-03-07T07:43:21.049Z"
-    },
-    {
-      "id": "LjjgfhEpr",
-      "uuid": "dc8cccf2-a06d-4d5c-b820-0fa392217f94",
-      "content": "123",
-      "userId": "-nC2j4VIa",
-      "transactionId": "J5Fd3dlBEBu",
-      "createdAt": "2024-04-17T20:25:07.639Z",
-      "modifiedAt": "2024-04-17T20:25:07.639Z"
     }
   ],
   "notifications": [
@@ -10911,76 +11047,6 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
-    },
-    {
-      "id": "Qb-ctawWNy",
-      "uuid": "4c0315d5-68b1-4ada-a20f-a187127e974b",
-      "userId": "GjWovtg2hr",
-      "transactionId": "exLwzUmhr",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:24:53.602Z",
-      "modifiedAt": "2024-04-17T20:24:53.602Z"
-    },
-    {
-      "id": "MuTaNDMLhY",
-      "uuid": "eab2d88b-227d-4abe-b623-5b917da59f93",
-      "userId": "uBmeaz5pX",
-      "transactionId": "J5Fd3dlBEBu",
-      "likeId": "gT978NZsH",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:25:01.069Z",
-      "modifiedAt": "2024-04-17T20:25:01.069Z"
-    },
-    {
-      "id": "vdVy7vPJGM",
-      "uuid": "7e022818-7590-433e-9bc3-6e740b224acf",
-      "userId": "WHjJ4qR2R2",
-      "transactionId": "J5Fd3dlBEBu",
-      "likeId": "gT978NZsH",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:25:01.075Z",
-      "modifiedAt": "2024-04-17T20:25:01.075Z"
-    },
-    {
-      "id": "9V_ZNsN8Eu",
-      "uuid": "09c7e83e-51c2-4841-a4d6-e136895d77c0",
-      "userId": "uBmeaz5pX",
-      "transactionId": "J5Fd3dlBEBu",
-      "commentId": "LjjgfhEpr",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:25:07.643Z",
-      "modifiedAt": "2024-04-17T20:25:07.643Z"
-    },
-    {
-      "id": "lr2p3z0NUu",
-      "uuid": "2d38d0ec-b906-43c2-959c-9b8b19fb1335",
-      "userId": "WHjJ4qR2R2",
-      "transactionId": "J5Fd3dlBEBu",
-      "commentId": "LjjgfhEpr",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:25:07.649Z",
-      "modifiedAt": "2024-04-17T20:25:07.649Z"
-    },
-    {
-      "id": "3PFBjPdrtp",
-      "uuid": "0418582e-b209-465c-bfe1-b36df63eb958",
-      "userId": "A2tZgI3n-",
-      "transactionId": "Rk_0xLDLR",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:25:30.532Z",
-      "modifiedAt": "2024-04-17T20:25:30.532Z"
-    },
-    {
-      "id": "bOexFWr22Y",
-      "uuid": "82249da9-ac46-4e38-b4bd-a767df11ecbb",
-      "userId": "z7Vc_hynR",
-      "transactionId": "iNpG3-wlO",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2024-04-17T20:26:12.351Z",
-      "modifiedAt": "2024-04-17T20:26:12.351Z"
     }
   ],
   "banktransfers": [
@@ -11533,26 +11599,6 @@
       "transactionId": "gaggAe7wNoiC",
       "createdAt": "2023-03-24T22:18:19.407Z",
       "modifiedAt": "2024-03-07T13:32:42.472Z"
-    },
-    {
-      "id": "BPFKilEQKo",
-      "uuid": "97c507e1-bbc8-446a-a1c6-4d5ec92cde87",
-      "userId": "-nC2j4VIa",
-      "amount": 12300,
-      "transactionId": "exLwzUmhr",
-      "type": "withdrawal",
-      "createdAt": "2024-04-17T20:24:53.577Z",
-      "modifiedAt": "2024-04-17T20:24:53.577Z"
-    },
-    {
-      "id": "z4T40367Za",
-      "uuid": "e07702d7-bd96-49b4-8956-32e53a53b4d3",
-      "userId": "-nC2j4VIa",
-      "amount": 12300,
-      "transactionId": "iNpG3-wlO",
-      "type": "withdrawal",
-      "createdAt": "2024-04-17T20:26:12.329Z",
-      "modifiedAt": "2024-04-17T20:26:12.329Z"
     }
   ]
 }
